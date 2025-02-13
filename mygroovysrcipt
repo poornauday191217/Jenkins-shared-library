@@ -1,0 +1,3 @@
+def call(string name = "Poornauday") {
+echo "welcome to ABC,$(name) $(date)"
+}
